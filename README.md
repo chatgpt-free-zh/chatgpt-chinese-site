@@ -1,9 +1,9 @@
-# 【国内直连】国内可用的ChatGPT中文版镜像集合（2025年7月更新）
+# 【国内直连】国内可用的ChatGPT中文版镜像集合（2025年9月更新）
 
->更新时间: 2025-07-29  
+>更新时间: 2025-09-22   
 
 
-**全方位指南，带您轻松使用 ChatGPT 中文版，支持 GPT-4，无需翻墙！**  
+**全方位指南，带您轻松使用 ChatGPT 中文版，支持 GPT-5，无需翻墙！**  
 本文提供详细的 ChatGPT 中文版使用说明，包括镜像站推荐、官网注册教程以及常见问题解答，帮助您快速掌握 ChatGPT 的使用方法。
 
 ---
@@ -38,11 +38,11 @@
 
 | 镜像站名称         | 地址                             | 支持版本           | 免费额度 | 注册方式           | 稳定性  | 功能亮点                |
 |--------------------|----------------------------------|--------------------|----------|--------------------|---------|-------------------------|
-| 一下AI            | [xsimplechat.com](https://xsimplechat.com/) | GPT-4、4o、o1      | 有       | 扫码即可       | 高      | 支持 GPT、AI绘画、AI助手、AI插件、AI PPT等  |
-| 小鲸鱼AI        | [chat.lanjingai.org](https://chat.lanjingai.org/) | GPT-4、4o           | 有       | 扫码即可     | 中      | 界面简洁，易于使用      |
-| AI工具站       | [yixiaai.cn](https://yixiaai.cn/) | GPT-4、o1           | 有       | 扫码即可      | 高      | 稳定快速，各种AI工具~ |
-| AI指南           | [guide1.lanjing.ai](https://guide1.lanjing.ai/) | GPT-4、o1           | 有       | 扫码即可   | 高      | AI使用指南            |
-| 蓝鲸AI            | [lanjing.ai](https://lanjing.ai/) | GPT-4、4o           | 有       | 扫码即可    | 中      | 最新模型支持            |
+| 一下AI            | [xsimplechat.com](https://xsimplechat.com/) | GPT-5、4o、o1      | 有       | 扫码即可       | 高      | 支持 GPT、AI绘画、AI助手、AI插件、AI PPT等  |
+| 小鲸鱼AI        | [ai.lanjingai.org](https://ai.lanjingai.org/) | GPT-5、4o           | 有       | 扫码即可     | 中      | 界面简洁，易于使用      |
+| AI工具站       | [yixiaai.cn](https://yixiaai.cn/) | GPT-5、o1           | 有       | 扫码即可      | 高      | 稳定快速，各种AI工具~ |
+| AI指南           | [guide1.lanjing.ai](https://guide1.lanjing.ai/) | GPT-5、o1           | 有       | 扫码即可   | 高      | AI使用指南            |
+| 蓝鲸AI            | [lanjing.ai](https://lanjing.ai/) | GPT-5、4o           | 有       | 扫码即可    | 中      | 最新模型支持            |
 ---
 
 ## 为什么选ChatGPT中文版？
@@ -87,8 +87,8 @@
 
 ## 常见问题解答（FAQ）
 
-1. **ChatGPT 中文版是否支持 GPT-4？**  
-   是的，推荐的镜像站均支持 GPT-4 模型。
+1. **ChatGPT 中文版是否支持 GPT-5？**  
+   是的，推荐的镜像站均支持 GPT-5 模型。
 
 2. **使用中文版是否需要付费？**  
    部分站点提供免费额度，但高级功能可能需付费。
