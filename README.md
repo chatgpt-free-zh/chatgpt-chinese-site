@@ -1,6 +1,6 @@
-# 【国内直连】国内可用的ChatGPT中文版镜像集合（2025年9月更新）
+# 【国内直连】国内可用的ChatGPT中文版镜像集合（2025年10月更新）
 
->更新时间: 2025-09-22   
+>更新时间: 2025-10-02     
 
 
 **全方位指南，带您轻松使用 ChatGPT 中文版，支持 GPT-5，无需翻墙！**  
@@ -41,8 +41,8 @@
 | 一下AI            | [xsimplechat.com](https://xsimplechat.com/) | GPT-5、4o、o1      | 有       | 扫码即可       | 高      | 支持 GPT、AI绘画、AI助手、AI插件、AI PPT等  |
 | 小鲸鱼AI        | [ai.lanjingai.org](https://ai.lanjingai.org/) | GPT-5、4o           | 有       | 扫码即可     | 中      | 界面简洁，易于使用      |
 | AI工具站       | [yixiaai.cn](https://yixiaai.cn/) | GPT-5、o1           | 有       | 扫码即可      | 高      | 稳定快速，各种AI工具~ |
-| AI指南           | [guide1.lanjing.ai](https://guide1.lanjing.ai/) | GPT-5、o1           | 有       | 扫码即可   | 高      | AI使用指南            |
-| 蓝鲸AI            | [lanjing.ai](https://lanjing.ai/) | GPT-5、4o           | 有       | 扫码即可    | 中      | 最新模型支持            |
+| Gemini中国           | [gemini-chinese.com](https://gemini-chinese.com/) | GPT-5、o1           | 有       | 扫码即可   | 高      | AI使用指南            |
+| 克劳德 AI            | [claude-chinese.com(https://claude-chinese.com/) | GPT-5、4o           | 有       | 扫码即可    | 中      | 最新模型支持            |
 ---
 
 ## 为什么选ChatGPT中文版？
